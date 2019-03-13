@@ -1,0 +1,55 @@
+.page{
+      margin: auto;
+      font-family: 'sources sans pro', Calibri , sans-serif;
+      font-size: 16px;
+      width: 780px;
+}
+
+strong{
+      font-size: 26px;
+}
+
+.infophoto{
+          height: 250px;
+}
+
+.info{
+      float: left;
+}
+
+.photo{
+      float: right;
+}
+
+h2{
+  font-size: 28px;
+  text-transform: uppercase;
+  border-bottom: 3px solid #3388DD;
+  color: #3388BB;
+}
+
+.bloc{
+      margin-bottom: 70px;
+      text-align: justify;
+}
+
+.gauche{
+        float: left;
+        font-weight: bold;
+}
+
+#compet-gauche p{
+                margin-bottom:10px;
+}
+#forma-gauche p{
+                
+}
+.droite{
+        margin-left: 170px;
+        margin-top: 40px;
+}
+
+.title{
+      font-weight: bold;
+      font-size: 20px;
+}
