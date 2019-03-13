@@ -2,17 +2,21 @@
   <html>
     <head>
         <title>Mon vieux cv</title>
+        <meta charset="UTF-8">
         <link rel= "stylesheet" href= "cv.css">
+        <script type="text/javascript" src="script.js"></script>
+
+
     </head>
     <body>
-      <div class= "page">
-        <div class= "infophoto">
-            <div class= "info">
-              <p><strong>STOKLOSA</strong></p>
-              <p><strong>Lilian</strong></p>
+      <div class="page">
+        <div class="infophoto" id="infophotos">
+            <div class="info" id= "mesinfos">
+              <p class="name"><strong>STOKLOSA</strong></p>
+              <p class="name"><strong>Lilian</strong></p>
               <p>11/09/1992</p>
-              <p>lilian.stoklosa@laposte.net</p>
-              <p>0606463991<br/></p>
+              <p class="contact">lilian.stoklosa@laposte.net</p>
+              <p class="contact">0606463991<br/></p>
               <p>Permis B</p>
             </div>
             <div class= "photo">
@@ -84,8 +88,10 @@
               <p>Allemand debutant</p>
               <p>Apprendre a coder, lire actualite du jeux video</p>
               <p>Jeux videos, cinema, musique</p>
+
             </div>
         </div>
         </div>
+
       </body>
     </html>
