@@ -43,7 +43,7 @@
         </div>
         <div class= "bloc"> <!-- mes expériences -->
           <h2>Experiences professionnelles</h2>
-            <div class= "gauche">
+            <div class= "gauche" id="exp">
               <p>Juin 2017-aujourd'hui</p><!-- accompagnement pole emploi et PLIE-->
               <p>Novembre 2016-<br/>-juin 2017</p> <!-- service civique-->
               <p>Mai-aout 2015</p> <!-- stages leclerc et raguet seripal-->
@@ -79,7 +79,7 @@
         </div>
         <div class= "bloc"> <!-- mes centres d'intéret -->
           <h2>Autres</h2>
-            <div class= "gauche">
+            <div class= "gauche" id="interet">
               <p>Langue</p> <!-- allemand débutant-->
               <p>Centres d'interet</p> <!-- apprendre a coder, actualité du jeux video-->
               <p>Loisirs</p> <!-- jeux videos et cineme et musique-->

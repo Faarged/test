@@ -1,16 +1,23 @@
+body{
+    background-size: 100% auto;
+    background-color: lightgrey;
+}
+
 .page{
       margin: auto;
-      font-family: 'sources sans pro', Calibri , sans-serif;
+      font-family: Calibri, sans-serif;
       font-size: 16px;
       width: 780px;
+
+
 }
 .name{
-  color: green;
+  color: blue;
 }
 
 .contact{
   text-decoration: underline;
-  font-style: italic;  
+  font-style: italic;
 }
 
 strong{
@@ -23,6 +30,8 @@ strong{
 
 .info{
       float: left;
+      background-color: lightgrey;
+      color: blue;
 }
 
 .photo{
@@ -48,9 +57,17 @@ h2{
 
 #compet-gauche p{
                 margin-bottom:10px;
+                color: blue;
+}
+
+#exp{
+  color: green;
 }
 #forma-gauche p{
-
+  color: green;
+}
+#interet{
+  color: blue;
 }
 .droite{
         margin-left: 200px;
