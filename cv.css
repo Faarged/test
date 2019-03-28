@@ -3,6 +3,9 @@ body{
     background-size: 100% auto;
     background-color: lightgrey;
 }
+.corps{
+  background-color: lightgrey;
+}
 
 .page{
       margin: auto;
@@ -17,6 +20,7 @@ body{
 .contact{
   text-decoration: underline;
   font-style: italic;
+
 }
 
 strong{
@@ -25,12 +29,14 @@ strong{
 
 .infophoto{
           height: 250px;
+          margin-bottom: 20px;
 }
 
 .info{
       float: left;
       background-color: lightgrey;
       color: blue;
+
 }
 
 .photo{
@@ -42,21 +48,30 @@ h2{
   text-transform: uppercase;
   border-bottom: 3px solid #3388DD;
   color: #3388BB;
+  margin-left: 50px;
 }
 
 .bloc{
-      margin-bottom: 70px;
+      margin-bottom: 40px;
       text-align: justify;
 }
 
 .gauche{
         float: left;
         font-weight: bold;
+        margin-top: 40px;
+        margin-left:50px;
+
+}
+#compet-gauche {
+    line-height: 30px;
+    margin-top: 38px;
 }
 
 #compet-gauche p{
                 margin-bottom:10px;
                 color: blue;
+
 }
 
 #exp{
@@ -70,10 +85,15 @@ h2{
 }
 .droite{
         margin-left: 200px;
-        margin-top: 40px;
+        margin-top: 50px;
+
 }
 
 .title{
       font-weight: bold;
       font-size: 20px;
+}
+
+.contactemoi{
+      margin-left: 50px;
 }
